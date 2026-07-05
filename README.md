@@ -1,6 +1,6 @@
 <div align="center">
 
-# YT Video Summarizer
+# YouTube Video Summarizer
 
 A sleek, modern web application for fetching YouTube video transcripts and generating high-quality summaries using Google Gemini.
 
