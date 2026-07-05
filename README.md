@@ -81,8 +81,8 @@ Model usage is defined in `services/gemini.py`.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/yt-summarizer.git
-cd yt-summarizer
+git clone https://github.com/adhvaith267/yt-video-summarizer.git
+cd yt-video-summarizer
 ```
 
 ### 2. Create and activate a virtual environment
