@@ -11,7 +11,6 @@ The frontend is built with **Tailwind CSS**, featuring a clean, responsive dark-
 - 🌍 **Multi-Language Support** (English, German, French, Spanish, Japanese, Korean, and original transcript language)
 - ⚡ **Real-Time Streaming** summaries (chunk-by-chunk)
 - 🎥 **Efficient Transcript Fetching** using `yt-dlp`
-- 🔐 **Secure API Key Handling** with `.env`
 
 
 ## 🧠 Gemini Model
